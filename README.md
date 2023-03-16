@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Maria Thayna 👋
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando vue.js
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas.
 - 😄 Pronouns: ela/dela
 
 <div align = "center">
